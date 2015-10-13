@@ -1,4 +1,4 @@
-## RTM API Basics
+## BOT API Basics
 
 [Slack-ruby-bot](https://github.com/dblock/slack-ruby-bot) makes it all very easy.
 

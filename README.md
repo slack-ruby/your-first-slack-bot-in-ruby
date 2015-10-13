@@ -5,5 +5,4 @@ This is a walkthrough for writing a Slack bot in Ruby, without any libraries. If
 
 * [Web API Basics](WEB.md)
 * [RTM API Basics](RTM.md)
-
-
+* [Slack-Ruby-Bot Basics](BOT.md)

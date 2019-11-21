@@ -45,7 +45,7 @@ GEM
     multipart-post (2.0.0)
     oj (2.12.14)
     rack (1.6.11)
-    rack-protection (1.5.3)
+    rack-protection (1.5.5)
       rack
     sinatra (1.4.6)
       rack (~> 1.4)

@@ -43,14 +43,18 @@ GEM
       addressable (~> 2.3)
     minitest (5.8.1)
     multipart-post (2.0.0)
+    mustermann (2.0.2)
+      ruby2_keywords (~> 0.0.1)
     oj (2.12.14)
-    rack (1.6.12)
-    rack-protection (1.5.5)
+    rack (2.2.4)
+    rack-protection (2.2.3)
       rack
-    sinatra (1.4.6)
-      rack (~> 1.4)
-      rack-protection (~> 1.4)
-      tilt (>= 1.3, < 3)
+    ruby2_keywords (0.0.5)
+    sinatra (2.2.3)
+      mustermann (~> 2.0)
+      rack (~> 2.2)
+      rack-protection (= 2.2.3)
+      tilt (~> 2.0)
     slack-ruby-bot (0.4.4)
       activesupport
       giphy (~> 2.0.2)
@@ -63,7 +67,7 @@ GEM
       faraday_middleware
       faye-websocket
     thread_safe (0.3.5)
-    tilt (2.0.2)
+    tilt (2.0.11)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     unf (0.1.4)
